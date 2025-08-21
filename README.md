@@ -3,4 +3,3 @@
 
 # BIENVENIDO GRACIAS POR APOYAR EL PROYECTO
 
-Scrib generador de contraseñas
