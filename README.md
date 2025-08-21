@@ -1,2 +1,6 @@
-# Bin-Gen
+### GENERADOR DE CONTRASEÑAS
+### CREADO POR GUS
+
+# BIENVENIDO GRACIAS POR APOYAR EL PROYECTO
+
 Scrib generador de contraseñas
